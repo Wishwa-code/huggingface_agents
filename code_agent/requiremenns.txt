@@ -1,0 +1,6 @@
+gradio
+requests
+smolagents
+pandas
+smolagents[openai]
+duckduckgo-search
